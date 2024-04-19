@@ -1,5 +1,5 @@
 
-# Runnig Tracker
+# Running Tracker
 
 The Running Tracker App is a fitness application that allows users to measure and track their running speed, draw running tracks, and view statistics such as average speed and total kilometers run. The app is built using Android clean code practices, including MVVM, Room Database and Java.
 
